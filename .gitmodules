@@ -1,0 +1,93 @@
+[submodule "aiagent"]
+	path = aiagent
+	url = git@github.com:paepckehh/aiagent.git
+[submodule "airloctag"]
+	path = airloctag
+	url = git@github.com:paepckehh/airloctag.git
+[submodule "asn2pf"]
+	path = asn2pf
+	url = git@github.com:paepckehh/asn2pf.git
+[submodule "certinfo"]
+	path = certinfo
+	url = git@github.com:paepckehh/certinfo.git
+[submodule "cliqr"]
+	path = cliqr
+	url = git@github.com:paepckehh/cliqr.git
+[submodule "codereview"]
+	path = codereview
+	url = git@github.com:paepckehh/codereview.git
+[submodule "codescore"]
+	path = codescore
+	url = git@github.com:paepckehh/codescore.git
+[submodule "daylight"]
+	path = daylight
+	url = git@github.com:paepckehh/daylight.git
+[submodule "dnscache"]
+	path = dnscache
+	url = git@github.com:paepckehh/dnscache.git
+[submodule "dnsinfo"]
+	path = dnsinfo
+	url = git@github.com:paepckehh/dnsinfo.git
+[submodule "dnsresolver"]
+	path = dnsresolver
+	url = git@github.com:paepckehh/dnsresolver.git
+[submodule "dotenv"]
+	path = dotenv
+	url = git@github.com:paepckehh/dotenv.git
+[submodule "fsdd"]
+	path = fsdd
+	url = git@github.com:paepckehh/fsdd.git
+[submodule "gitkeys"]
+	path = gitkeys
+	url = git@github.com:paepckehh/gitkeys.git
+[submodule "firstname"]
+	path = firstname
+	url = git@github.com:paepckehh/firstname.git
+[submodule "gpsinfo"]
+	path = gpsinfo
+	url = git@github.com:paepckehh/gpsinfo.git
+[submodule "gpstime"]
+	path = gpstime
+	url = git@github.com:paepckehh/gpstime.git
+[submodule "hq"]
+	path = hq
+	url = git@github.com:paepckehh/hq.git
+[submodule "keys"]
+	path = keys
+	url = git@github.com:paepckehh/keys.git
+[submodule "killmydebt"]
+	path = killmydebt
+	url = git@github.com:paepckehh/killmydebt.git
+[submodule "lockssl"]
+	path = lockssl
+	url = git@github.com:paepckehh/lockssl.git
+[submodule "logsec"]
+	path = logsec
+	url = git@github.com:paepckehh/logsec.git
+[submodule "lteinfo"]
+	path = lteinfo
+	url = git@github.com:paepckehh/lteinfo.git
+[submodule "mkcert-delux"]
+	path = mkcert-delux
+	url = git@github.com:paepckehh/mkcert-delux.git
+[submodule "npad"]
+	path = npad
+	url = git@github.com:paepckehh/npad.git
+[submodule "paepckehh"]
+	path = paepckehh
+	url = git@github.com:paepckehh/paepckehh.git
+[submodule "reportstyle"]
+	path = reportstyle
+	url = git@github.com:paepckehh/reportstyle.git
+[submodule "signify"]
+	path = signify
+	url = git@github.com:paepckehh/signify.git
+[submodule "sphincs"]
+	path = sphincs
+	url = git@github.com:paepckehh/sphincs.git
+[submodule "tlsinfo"]
+	path = tlsinfo
+	url = git@github.com:paepckehh/tlsinfo.git
+[submodule "website"]
+	path = website
+	url = git@github.com:paepckehh/website.git
