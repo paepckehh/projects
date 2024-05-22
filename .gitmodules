@@ -85,6 +85,9 @@
 [submodule "sphincs"]
 	path = sphincs
 	url = git@github.com:paepckehh/sphincs.git
+[submodule "squidr"]
+	path = squidr
+	url = git@github.com:paepckehh/squidr.git
 [submodule "tlsinfo"]
 	path = tlsinfo
 	url = git@github.com:paepckehh/tlsinfo.git
